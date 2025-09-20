@@ -2,9 +2,8 @@
 This document contains a list of official government websites used as sources in our app for schemes, and news information.
 
 ## 📍 Data Source
-- 🔗 https://registration.ap.gov.in/
-- 🔗 https://meebhoomi.ap.gov.in/
-- 🔗 https://ccla.ap.gov.in/
+- 🔗 [https://registration.ap.gov.in/](https://gramawardsachivalayam.ap.gov.in/GSWS/Home/Main)
+- 🔗 [https://meebhoomi.ap.gov.in/](https://gsws-nbm.ap.gov.in/NBM/#!/ApplicationStatusCheckP)
 
 ## Source of Currency Exchange Data
 Exchange rate data used in this app is provided by CurrencyFreaks, a reliable and real-time currency exchange rate API.  
